@@ -1,2 +1,2 @@
-picom &
+picom --backend glx -b
 slstatus &
